@@ -1,5 +1,3 @@
-# Robot-Arm-Grasping
-
 # Robot Arm Control Using Reinforcement Learning  
 **Robot Learning Course Project**  
 *Supervised by Professor Alex Mitrevski*  
